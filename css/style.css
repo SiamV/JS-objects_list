@@ -20,3 +20,19 @@ img {
 h1 {
     color: blue;
 }
+h3 {
+    color: rgb(88, 8, 8);
+}
+.select {
+    width: 300px;
+    height: 50px;
+    border-radius: 20px;
+    border: chocolate 2px solid;
+    margin-top: 10px;
+    /* далее для текста */
+    text-align: left;
+    padding: 5px;
+    font-size: 30px;
+
+}
+
