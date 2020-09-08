@@ -1,2 +1,2 @@
 ## JS-objects_list
-Learn Simple object and list
+Learn simple object and list
